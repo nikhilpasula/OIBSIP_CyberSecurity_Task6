@@ -1,8 +1,8 @@
-\# Task 6 - Research Report on the Importance of Patch Management
+# Task 6 - Research Report on the Importance of Patch Management
 
 
 
-\## Objective
+## Objective
 
 
 
@@ -10,45 +10,45 @@ To research and explain the importance of patch management in cybersecurity, the
 
 
 
-\## Topics Covered
+## Topics Covered
 
 
 
-\* Definition of Patch Management
+* Definition of Patch Management
 
-\* Importance of Software Updates
+* Importance of Software Updates
 
-\* Risks of Unpatched Systems
+* Risks of Unpatched Systems
 
-\* Real-World Security Incidents
+* Real-World Security Incidents
 
-\* Best Practices for Patch Management
-
-
-
-\## Files Included
+* Best Practices for Patch Management
 
 
 
-\* patch\_management\_report.md
+## Files Included
 
 
 
-\## Key Learning Outcomes
+* patch\_management\_report.md
 
 
 
-\* Understanding the role of patch management in cybersecurity
-
-\* Identifying risks caused by outdated software
-
-\* Learning effective patch deployment strategies
-
-\* Recognizing the importance of regular software updates
+## Key Learning Outcomes
 
 
 
-\## Conclusion
+* Understanding the role of patch management in cybersecurity
+
+* Identifying risks caused by outdated software
+
+* Learning effective patch deployment strategies
+
+* Recognizing the importance of regular software updates
+
+
+
+## Conclusion
 
 
 
